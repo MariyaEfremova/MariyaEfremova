@@ -5,6 +5,10 @@
 
 ## Немного обо мне
 - Работаю конструктором в самолетостроении ✈
+- Какое-то время занималась веб-разработкой (можно ознакомиться [тут](https://github.com/MariyaEfremova/Todo) и [тут](https://github.com/MariyaEfremova/Layout)) 👩‍💻
+- Имею опыт работы в ИТ-компании на должности разметчика данных для машинного обучения 🩻
+- Выбрала тестирование, как сферу, где смогу применить свои детективные способности и реализовать тягу к обучению 🔍
+- Фан-факт: одиннадцать лет отучилась в музыкальной школе и очень люблю музыку 🎵
 
 ## Инструменты
 <div>
@@ -29,19 +33,19 @@
 </div>
 
 ## Тестовые артефакты
-- Тестирование интернет-магазина - исследовательское и функциональное тестирование
-- Тестирование API - REST, SOAP в Postman и SoapUI
-- MySQL - запросы и проверки в БД
-- MongoDB - запросы в NoSQL БД
-- Тестирование мобильного приложения - тест-кейсы и баг-репорты
-- Charles Proxy –
-- Bash – немного команд и скриптов
-- Git – команды для работы в репозитории
+- [Testing an online store](https://github.com/MariyaEfremova/Testing-an-online-store) - исследовательское и функциональное тестирование
+- [API Testing](https://github.com/MariyaEfremova/API-Testing) - REST, SOAP в Postman и SoapUI
+- [MySQL](https://github.com/MariyaEfremova/MySQL) - запросы и проверки в БД
+- [MongoDB](https://github.com/MariyaEfremova/MongoDB) - запросы в NoSQL БД
+- [Android app testing](https://github.com/MariyaEfremova/Android-app-testing) - тест-кейсы и баг-репорты
+- [Charles Proxy](https://github.com/MariyaEfremova/Charles-Proxy) – мокирование и отслеживание трафика
+- [Bash](https://github.com/MariyaEfremova/Bash) – команды для работы с файлами
+- [Git](https://github.com/MariyaEfremova/Git) – команды для работы с системой контроля версий
   
 
-<p align="center">Буду рада знакомству и совместной работе!</p>
+<p align="center"><b>Буду рада знакомству и совместной работе!</b></p>
     
 <p align="center"><a href="https://www.linkedin.com/in/.../"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/..."><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:...@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a></p>
+  <a href="https://t.me/MariaEfremovaa"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:efremova.marr@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a></p>
 
