@@ -1,13 +1,12 @@
 # Привет, меня зовут Мария!
 
-Я начинающий тестировщик. Здесь вы найдете тестовые артефакты, созданные мной в процессе обучения.✍  
+Я Junior QA. Здесь вы найдете тестовые артефакты, созданные мной в процессе обучения.✍  
 📑 Ознакомиться с моим резюме можно [***здесь***](https://drive.google.com/file/d/1rmtV36CqOYQkVzExeVnHtl5x7QUkzjVy/view?usp=drivesdk).
 
 ## Немного обо мне
-- Работаю конструктором в самолетостроении ✈
-- Имею опыт работы в ИТ-компании на должности разметчика данных для машинного обучения 🩻
 - Выбрала тестирование, как сферу, где смогу применить свои детективные способности и реализовать тягу к обучению 🔍
-- Фан-факт: одиннадцать лет отучилась в музыкальной школе и очень люблю музыку 🎵
+- Имею опыт работы в ИТ-компании на должности разметчика данных для машинного обучения 🩻
+- Более 5 лет работаю конструктором в самолетостроении ✈
 
 ## Инструменты
 <div>
@@ -19,7 +18,7 @@
   <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
  <img width="40" height="45" alt="17708919173381899833658847470500" src="https://github.com/user-attachments/assets/0e50d82b-b0c1-4689-834d-004ad77c04ee" />
 </div>
